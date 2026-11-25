@@ -34,3 +34,30 @@ a {
 a:hover {
   color: var(--accent);
 }
+
+/* Main content layout */
+main {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 40px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+/* Section spacing */
+h2 {
+  margin-top: 40px;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  main {
+    margin: 16px;
+    padding: 24px;
+  }
+}
