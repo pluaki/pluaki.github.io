@@ -88,3 +88,22 @@ p {
     padding: 24px;
   }
 }
+
+/* Header */
+.site-header {
+  background: linear-gradient(135deg, #176b87, #2a9d8f);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.site-header h1 {
+  color: white;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.site-header p {
+  font-size: 1.1rem;
+  margin: 0;
+}
