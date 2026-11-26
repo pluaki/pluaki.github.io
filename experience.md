@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Professional Experience
+permalink: /experience/
 ---
 
 # 💼 Professional Experience
