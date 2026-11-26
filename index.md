@@ -32,8 +32,7 @@ and expanding my skills through hands-on experience.
   Application integration, software development,
   technical analysis, maintenance, and support.
 
-## Technical Skills
-{: #technical-skills }
+<h2 id="technical-skills">🛠️ Technical Skills</h2>
 
 Java · C++ · SQL · Spring Boot · Quarkus · Qt
 
