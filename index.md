@@ -3,10 +3,6 @@ layout: default
 title: Pipiena Luaki
 ---
 
-# Pipiena Luaki
-
-### Software Development | Application Integration | Technical Analysis
-
 Welcome to my professional portfolio!
 
 ## 👋 About Me
